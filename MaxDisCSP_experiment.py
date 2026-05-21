@@ -129,14 +129,14 @@ frodo2.run(java, javaParams, generator, genParams, nbrProblems, algos, timeout, 
 frodo2.plot(output, xCol = 9, yCol = 14) # yCol = 12 is the NCCC count (the first column has index 0)
 frodo2.plot(output, xCol = 9, yCol = 13) # yCol = 12 is the NCCC count (the first column has index 0)
 frodo2.plot(output, xCol = 9, yCol = 19) # yCol = 12 is the NCCC count (the first column has index 0)
-# frodo2.plot(output, xCol = 0, yCol = 5) # yCol = 12 is the NCCC count (the first column has index 0)
-# frodo2.plot(output, xCol = 7, yCol = 14) # yCol = 12 is the NCCC count (the first column has index 0)
-# frodo2.plot(output, xCol = 7, yCol = 14) # yCol = 12 is the NCCC count (the first column has index 0)
-# data = pd.read_csv(output, sep=',',header=None, index_col =0)
 
-# data.plot(kind='bar')
-# plt.ylabel('Time')
-# plt.xlabel('Algorithm')
+
+
+
+
+
+
+
 # plt.title('Time ')
 
 # plt.show()
